@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Content Management Tool</title>
+</head>
+<body>
+    <h1>Content Management Tool</h1>
+
+    <!-- Text content editor -->
+    <textarea id="textContent" rows="10" cols="50" placeholder="Enter your text here..."></textarea>
+
+    <!-- Save button -->
+    <button id="saveButton">Save Content</button>
+
+    <!-- Display saved content -->
+    <div id="displayContent"></div>
+
+    <script src="content-management.js"></script>
+</body>
+</html>
